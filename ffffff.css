@@ -1,0 +1,113 @@
+
+
+
+h1 , h2 , h3
+{
+text-align: center;
+}
+.photo
+{
+  background-image: url(friend.jpg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  border-radius: 100px;
+ 
+}
+
+.image
+{
+  background-image: url(image.jpg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+  
+}
+.image:hover
+{
+  background-image: url(birthday.gif);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  
+}
+.image2
+{
+  background-image: url(image.jpg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+  
+}
+.image2:hover
+{
+  background-image: url(briliant.gif);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  
+}
+.image3
+{
+  background-image: url(image.jpg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+  
+}
+.image3:hover
+{
+  background-image: url(worth.gif);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  
+}
+
+.image4
+{
+  background-image: url(last.jpg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+  
+}
+
+.image4:hover
+{
+  background-image: url(never.gif);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  
+}
+body{
+
+  background-color: lightblue;
+}
+
+
+
